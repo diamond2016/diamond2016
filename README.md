@@ -50,6 +50,14 @@ A web-based project related to radio and channel browsing/visualization.
 
 - Repo: https://github.com/diamond2016/RadioChWeb
 
+### Mathematical methods: a journey
+
+- Repo: https://github.com/diamond2016/mathematical-methods-journey
+
+A journey on complex analysis seen from an IT engineer.
+
+Last commit: week02 / roots of unity
+
 ## Current Focus
 
 - Java / Spring Boot backend architecture
