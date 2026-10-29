@@ -58,13 +58,6 @@ A journey on complex analysis seen from an IT engineer.
 
 Last commit: week02 / roots of unity
 
-## Current Focus
-
-- Java / Spring Boot backend architecture
-- Vue.js interfaces and frontend usability
-- FastAPI and Python service development
-- Building useful, efficient, and readable software
-- Exploring better ways to turn ideas into deployable products
 
 ## GitHub Stats
 
@@ -79,4 +72,10 @@ Last commit: week02 / roots of unity
 > I care about strong backend logic, intuitive interfaces, and solutions that work in the real world.
 
 
+## Current Focus
 
+I am currently exploring diffusion models and TTS models for image and audio production. All integrated in Spring Ai apps.
+
+*This image was created by `stable-diffusion-xl` (sdxl) with Spring Ai and Spring OpenaAi interface (ImageModel)*.
+
+![ships in an old London](ships-small.png)
