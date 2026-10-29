@@ -61,7 +61,7 @@ Last commit: week02 / roots of unity
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diamond2016&show_icons=true&theme=tokyonight)
+![GitHub profile stats](main/assets/profile-stats.svg)
 
 ## Connect
 
