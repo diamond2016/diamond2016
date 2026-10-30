@@ -4,7 +4,7 @@ I build practical software, APIs, and web experiences with a strong focus on Jav
 
 Freelance, open to contributions, and common projects.
 
-You can find my cv at [Linkedin - Riccardo Corsi](https://www.linkedin.com/in/riccardo-corsi-96753150)
+You can find my cv at [Linkedin](https://www.linkedin.com/in/riccardo-corsi-96753150)
 
 ## Portfolio
 
