@@ -28,10 +28,10 @@
 
   <rect x="40" y="148" width="220" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="62" y="178" fill="#8b949e" font-size="14" font-family="Segoe UI, Arial, sans-serif">Followers</text>
-  <text x="62" y="204" fill="#f0f6fc" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">302</text>
+  <text x="62" y="204" fill="#f0f6fc" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">303</text>
 
   <rect x="290" y="148" width="220" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="312" y="178" fill="#8b949e" font-size="14" font-family="Segoe UI, Arial, sans-serif">Repositories</text>
-  <text x="312" y="204" fill="#f0f6fc" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">44</text>
+  <text x="312" y="204" fill="#f0f6fc" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">45</text>
 
 </svg>
