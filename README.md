@@ -50,8 +50,11 @@ A web-based project related to radio and channel browsing/visualization.
 
 - Repo: https://github.com/diamond2016/RadioChWeb
 
-### spring AI image
+### Spring AI Smage
 My porting of the original repo from `Spring Guru` of the Spring Ai Image app. tested with `sdxl` (stable-diffusion).
+
+- Repo: https://github.com/diamond2016/spring-ai-image
+
 
 ### Mathematical methods: a journey
 
