@@ -4,8 +4,6 @@ I build practical software, APIs, and web experiences with a strong focus on Jav
 
 Freelance, open to contributions, and common projects.
 
-You can find my cv at [Linkedin](https://www.linkedin.com/in/riccardo-corsi-96753150)
-
 ## Portfolio
 
 A place where I turn ideas into useful tools, clean interfaces, and reliable backend systems. 
@@ -25,6 +23,8 @@ A place where I turn ideas into useful tools, clean interfaces, and reliable bac
 - Also building APIs and automation services with Python and FastAPI
 - Passionate about clean architecture, maintainable code, and real-world problem solving
 - Interested in product thinking, system design, and creating useful tools
+
+You can find my cv at [Linkedin](https://www.linkedin.com/in/riccardo-corsi-96753150)
 
 I am currently exploring world of agentic programming and workflow.
 
@@ -64,10 +64,6 @@ A journey on complex analysis seen from an IT engineer.
 
 Last commit: week02 / roots of unity
 
-
-## GitHub Stats
-
-![GitHub profile stats](main/assets/profile-stats.svg)
 
 ## Connect
 
