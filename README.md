@@ -10,7 +10,7 @@ You can find my cv at [Linkedin](https://www.linkedin.com/in/riccardo-corsi-9675
 ## Connect
 
 - [GitHub](https://github.com/diamond2016)
-- [Email](diamondnet@outlook.it)
+- Email: diamondnet@outlook.it
 
 > I like building software that is clean, and efficient.
 > I start with backend logic, then exploring intuitive interfaces, and solutions that work in the real world.
